@@ -1,0 +1,10 @@
+1. add frontend of the damn chat thing.
+2. test the chat thing
+3. once it is all done, the real making should be fine????
+4. check out how the damn code works.
+
+BTW: the this is the script of the package.json
+
+    //"start": "nodemon server/index.js",
+    //"start:server": "node server/index.js",
+    //"test": "echo \"Error: no test specified\" && exit 1"
